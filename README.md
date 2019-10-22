@@ -12,7 +12,7 @@ You can clone the repository wherever you want. (I like to keep it in `~/Project
 
 ```bash
 # get the code
-cd ~ ; git clone https://github.com/voku/dotfiles.git; cd dotfiles
+cd ~ ; git clone https://github.com/hervala/dotfiles.git; cd dotfiles
 
 # only for Debian based e.g. Ubuntu, Lubuntu, Kubuntu etc.
 ./firstInstallDebianBased.sh
